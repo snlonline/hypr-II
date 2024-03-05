@@ -1,0 +1,11 @@
+grim
+slurp
+kitty
+cava
+ranger
+pamixer
+playerctl
+brightnessctl
+nwg-look
+qt6ct
+xorg-xwayland
