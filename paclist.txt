@@ -8,4 +8,5 @@ playerctl
 brightnessctl
 nwg-look
 qt6ct
+qt5ct
 xorg-xwayland
